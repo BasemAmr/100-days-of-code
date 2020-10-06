@@ -13,3 +13,7 @@ It was simple but I was hurrying up so I forgot to add its css files!
 
 I learned to write carefully and not to hurry up, specialy if I write a code ^_^
 
+### Day 3 | 6/20/2020
+
+I finished the home page HTML structure finally, that home page equal a big landing page, its HTML content is very long, I still have to build 4 pages before I start styling the pages
+
