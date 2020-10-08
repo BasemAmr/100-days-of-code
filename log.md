@@ -26,3 +26,13 @@ Very very annoying problem and until now I can't fix it
 I had to let the computer as my brain was overload
 
 I hope to fix it fast
+
+### Day 5 | 8/10/2020
+
+Finally, I styled the navbar and fixed the annoying problem with one line only, z-index (≧▽≦)
+
+I asked a question on stack overflow but with no answer, just imagine how much time I spent trying fix this problem?
+
+If they answered me, I would not get the same outcome that I got
+
+Try to fix your problem yourself, you will get more than you think
